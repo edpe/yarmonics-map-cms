@@ -20,6 +20,9 @@
     },
     "long": {
       "type": "float"
+    },
+    "performances": {
+      "collection": "performance"
     }
   }
 }

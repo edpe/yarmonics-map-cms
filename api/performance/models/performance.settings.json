@@ -32,9 +32,6 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
-    },
-    "location": {
-      "model": "location"
     }
   }
 }
